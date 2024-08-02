@@ -8,4 +8,4 @@ Enaleia works with fishing communities in the Mediterranean, mobilising them on 
 We are partnering with Pollen Labs to develop a customized public ledger for transparent and secure tracking of plastic collection, transportation, and recycling processes.
 
 ### Be part of core contributors
-We are open and welcome anyone who wants to join our working group, you can view the open issues or join our discord chat at https://discord.gg/tAR7khdjfZ  (Accelerated by Pollen Labs, https://pollenlabs.org/)
+We are open and welcome anyone who wants to join our working group, you can view the open issues or join our discord chat at [https://discord.gg/5ShRgHfvqN](https://discord.gg/5ShRgHfvqN)  (Accelerated by Pollen Labs, https://pollenlabs.org/)
