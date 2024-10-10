@@ -1,11 +1,8 @@
-## Welcome to the Enaleia GitHub repository. 👋
-Enaleia is an organisation with a vision to make the marine ecosystem sustainable through circular and social economy solutions. Enaleia runs several projects worldwide, from mega cleanup projects to consultancy & research projects.
-
-You can learn more about our mission at: [https://enaleia.com/](https://enaleia.com/)
+## Welcome to the Enaleia hub. 👋
+[Enaleia](https://enaleia.com/) is a well-established social enterprise that collaborates with thousands of fishermen to reduce marine pollution by training them to collect plastic waste while fishing and adopt sustainable practices. To date, they have collected over 1,200 tons of marine plastic, helping clean the Mediterranean and support a circular economy by turning waste into resources. Their efforts have earned multiple awards, including recognition as a UN Champion. Enaleia is a flagship project proudly supported by the Next Billion Fellowship in cohort #4.  [https://enaleia.com/]
 
 ## Project Overview
-Enaleia works with fishing communities in the Mediterranean, mobilising them on sustainable fishing practices and incentivising them to bring their plastic bycatches back to the port. Joining forces with certified recycling and upcycling partners, the collected marine plastic is integrated into the circular economy.
-We are partnering with Pollen Labs to develop a customized public ledger for transparent and secure tracking of plastic collection, transportation, and recycling processes.
+The Enaleia Hub aims to showcase Enaleia’s environmental impact using blockchain and the open-source approach. By integrating key features such as reporting, attestation, role management, traceability, and product passports, the Hub will offer a streamlined internal system and a public-facing interface. 
 
 ### Be part of core contributors
 We are open and welcome anyone who wants to join our working group, you can view the open issues or join our discord chat at [https://discord.gg/5ShRgHfvqN](https://discord.gg/5ShRgHfvqN)  (Accelerated by Pollen Labs, https://pollenlabs.org/)
