@@ -4,6 +4,10 @@
 ## Project Overview
 The Enaleia Hub aims to showcase Enaleia’s environmental impact using blockchain and the open-source approach. By integrating key features such as reporting, attestation, role management, traceability, and product passports, the Hub will offer a streamlined internal system and a public-facing interface. 
 
+### Presentation
+In this video, we will walk you through how Enaleia Hub works. (18 mins~)
+View it on youtube: https://youtu.be/P9QTiQ37r1I
+
 ### Sponsorship & Acceralation
 Enaleia Hub is a flagship project proudly supported by the [Next Billion Fellowship](https://nxbn.ethereum.foundation/fellowship) in cohort #4 & built by [Pollen Labs](https://pollenlabs.org/). 
 
